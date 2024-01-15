@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="mobile_number"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Enter Mobile Number" name="mobile_number" id="mobile_number" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
